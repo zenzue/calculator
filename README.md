@@ -1,1 +1,3 @@
 # calculator
+Simple Calculator 
+just + - * /
